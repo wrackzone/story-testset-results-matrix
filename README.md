@@ -13,4 +13,4 @@ Story  | TestCase | TestSet1 | TestSet 2 | TestSet 3
 ------------- | -------------| ------------- | -------------| ------------- 
 Story 1 | Testcase 1 | Pass | Fail | Pass 
 Story 1 | Testcase 1 | Pass | Pass | Pass 
-
+Story 2 | Testcase 1 | Pass | Pass | Fail 
